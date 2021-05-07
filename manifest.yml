@@ -1,5 +1,5 @@
 ---
 applications:
  - name: movies-reviews-database-f6f
-   random-route: false
+   random-route: true
    memory: 128M
